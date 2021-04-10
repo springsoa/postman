@@ -75,7 +75,7 @@
         "header": [
           {
             "key": "Authorization",
-            "value": "OAuth {{token}}",
+            "value": "OAuth {{accessToken}}",
             "type": "text"
           },
           {
